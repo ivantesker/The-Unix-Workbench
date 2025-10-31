@@ -1,0 +1,71 @@
+# Editor and IDE files
+*.swp
+*.swo
+*~
+.*.swp
+.*.swo
+.DS_Store
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test artifacts
+test_results/
+coverage/
+*.test
+
+# Build artifacts
+dist/
+build/
+*.o
+*.a
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node modules (if any future JavaScript is added)
+node_modules/
+package-lock.json
+
+# Python files (if any future Python is added)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.out
+*.so
